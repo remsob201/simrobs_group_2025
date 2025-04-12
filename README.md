@@ -1,10 +1,32 @@
 # simrobs
-# Simulation of Robotic Systems 
-Students: Robotics and artificial intelligence
+
+Welcome to the repository of two subjects taught at ITMO University for Robotics and Artificial Intelligence students. 
 
 Instructor: Ivan Borisov, PhD, borisovii@itmo.ru 
 
 Assistant: Egor Rakshin, MSc, earakshin@itmo.ru
+
+# DOMS: Design and Optimization of Mechatronic Systems
+
+## Description 
+
+The design process is often not formalized and mostly relies on the designer’s imagination, engineering intuition,
+and experience. Within this subject we utilize computational design paradigm, that treats the design process as 
+an optimization task, to optimize mechanics and control for robotic and mechatronic systems. 
+Computational Design consists of two tasks: the user-driven the forward exploration to compute performance and behavior of
+a system with a given set of parameters and the optimization-driven inverse task to determine values that lead to a desired
+motion or behavior. The module discuss how computational design approach can be used for engineering purposes. 
+
+## **Materials**
+
+- Lecture notes 
+- Book: Hurbans, Rishal. "Artificial Intelligence Algorithms." Hurbans Rishal–Shelter Island, NY 11964 (2021) [Link](https://livebook.manning.com/book/grokking-artificial-intelligence-algorithms/chapter-1/).
+- Video course: [Introduction to Computational Thinking](https://ocw.mit.edu/courses/18-s191-introduction-to-computational-thinking-fall-2020/)
+- Video course: [Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
+- Papers: [Computational Robotics Lab](https://crl.ethz.ch/publications/index.html)
+- Papers: [Disney Research](https://la.disneyresearch.com/publication/)
+
+# SRS: Simulation of Robotic Systems 
 
 ## Description
 Modern robotic and mechatronic systems are complex in terms of all domains: mechanics, sensors, actuation, control, etc. To study the behavior and performance of an existing robotic system or a proposed one, we use models to focus on the essential features while keeping a reasonable tradeoff between realism and simplicity.  The act of building a model is called modeling, while the process of using a model to study the behavior and performance of an actual or theoretical system is called simulation.
