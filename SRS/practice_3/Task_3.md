@@ -4,7 +4,7 @@
 
 Variant 1 - tendon connected 2R planar mechanism:
 
-<img  rc="https://github.com/user-attachments/assets/ea302694-dbfa-4637-8561-b9d0c466bf93" 
+<img src="https://github.com/user-attachments/assets/f1db4951-732f-4c33-9421-71b5ba5febb6"
      alt="image" 
      width="400" />
 
